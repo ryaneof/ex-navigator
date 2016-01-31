@@ -22,7 +22,6 @@
   "homepage": "https://github.com/exponentjs/ex-navigator#readme",
   "dependencies": {
     "@exponent/react-native-responsive-image": "0.0.4",
-    "invariant": "^2.2.0",
-    "react-clone-referenced-element": "^1.0.1"
+    "invariant": "^2.2.0"
   }
 }
